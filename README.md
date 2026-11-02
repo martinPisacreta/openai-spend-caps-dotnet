@@ -81,6 +81,10 @@ Checked on Windows on 2 November 2026 with the .NET SDK 10.0.402 targeting net8.
 
 It has not been validated against the live OpenAI API. Local fake-provider tests cannot establish live model compatibility, current pricing, or actual provider billing.
 
+## Work with the author
+
+A fixed-price integration of the OpenAI API into your ASP.NET Core app with per-user spending limits, adapted from this sample: https://www.upwork.com/services/product/2114839106032222506
+
 ## License
 
 MIT, copyright 2026 Martin Pisacreta. See LICENSE.

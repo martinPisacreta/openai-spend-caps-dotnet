@@ -85,6 +85,8 @@ It has not been validated against the live OpenAI API. Local fake-provider tests
 
 A fixed-price integration of the OpenAI API into your ASP.NET Core app with per-user spending limits, adapted from this sample: https://www.upwork.com/services/product/2114839106032222506
 
+Walkthrough of how the reservation, retry exposure and release work: https://dev.to/martinpisacreta/how-i-cap-openai-spending-per-user-in-aspnet-core-27bb
+
 ## License
 
 MIT, copyright 2026 Martin Pisacreta. See LICENSE.
